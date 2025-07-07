@@ -1,4 +1,4 @@
-24737495961611071
+24740828962051327
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52640,13 +52640,6 @@ MesurementPoint Square SMDPad 5mmx10mm
 1
 1
 Connector_Wuerth
-Wuerth_WR-BHD_61202021621_P2.54mm_Vertical
-
-
-0
-20
-20
-Connector_Wuerth
 Wuerth_WR-PHD_613004216921_Large_2x02_P2.54mm_Vertical
 Connector Wuerth, WR-PHD 2.54mm Dual Socket Header Bottom Entry Large, Wuerth electronics 613004216921 (https://katalog.we-online.de/em/datasheet/613004216921.pdf), generated with kicad-footprint-generator
 Connector Wuerth WR-PHD 2.54mm 613004216921
@@ -72407,6 +72400,27 @@ psemi csp 16
 0
 16
 16
+Package_DFN_QFN
+6-UFDFN
+
+MAX20337AEFT+T 
+0
+6
+6
+Package_DFN_QFN
+6-XFDFN
+
+XS3A1T3157GMX 
+0
+6
+6
+Package_DFN_QFN
+8-UFQFN
+
+
+0
+8
+8
 Package_DFN_QFN
 AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm
 UFD Package, 4-Lead Plastic QFN (2mm x 2mm), http://ams.com/eng/content/download/950231/2267959/483138
