@@ -1,9 +1,0 @@
-### Missing 3D models - created on 2025-07-06 15:05
-### Printed by checking_3D_models plugin
-Board file: /Users/martin5009/Project/silver-platter/controller/silver-platter.kicad_pcb
-3D missing models written to:
-/Users/martin5009/Project/silver-platter/controller/silver-platter_missing3Dmodels.txt
--------
--------
-NUM of 3D missing models:0
-checked extensions ['.stp', '.step', '.stpZ']
