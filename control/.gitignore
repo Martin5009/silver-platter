@@ -1,0 +1,99 @@
+################################################################################
+# STM32CubeIDE / STM32CubeMX Git Ignore File
+# Clean, cross-platform, and collaboration-friendly
+################################################################################
+
+#########################
+# Build and Output Files
+#########################
+# CubeIDE build directories
+Debug/
+Release/
+build/
+
+# Any build artifacts
+*.o
+*.d
+*.elf
+*.map
+*.hex
+*.bin
+*.list
+*.srec
+
+#########################
+# IDE / Tool Metadata
+#########################
+# Eclipse (STM32CubeIDE) workspace metadata
+.settings/
+*.launch
+
+# Local workspace configs (user-specific)
+.metadata/
+*.log
+
+# VS Code settings (if some people also use VS Code)
+.vscode/
+*.code-workspace
+
+#########################
+# CubeMX Generated Temp Data
+#########################
+# Backup files CubeMX sometimes generates
+*.bak
+*.tmp
+*.old
+
+#########################
+# OS-specific Junk Files
+#########################
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+#########################
+# Other Editors / Tools
+#########################
+# vim
+*.swp
+*.swo
+
+# emacs
+*~
+\#*\#
+.\#*
+
+#########################
+# CMake (if used)
+#########################
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+#########################
+# Misc
+#########################
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary archives
+*.zip
+*.tar
+*.tar.gz
+
+compile_commands.json
+
+################################################################################
+# END
+################################################################################
